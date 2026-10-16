@@ -1,0 +1,2570 @@
+[
+  {
+    "id": 1,
+    "title": "Tập 1  (Chương 1 - 3)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%201%20%20%28Ch%C6%B0%C6%A1ng%201%20-%203%29.opus",
+    "part": "P2",
+    "chapter_start": 1,
+    "chapter_end": 3
+  },
+  {
+    "id": 2,
+    "title": "Tập 2  (Chương 4 - 7)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%202%20%20%28Ch%C6%B0%C6%A1ng%204%20-%207%29.opus",
+    "part": "P2",
+    "chapter_start": 4,
+    "chapter_end": 7
+  },
+  {
+    "id": 3,
+    "title": "Tập 3  (Chương 8 - 12)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%203%20%20%28Ch%C6%B0%C6%A1ng%208%20-%2012%29.opus",
+    "part": "P2",
+    "chapter_start": 8,
+    "chapter_end": 12
+  },
+  {
+    "id": 4,
+    "title": "Tập 4  (Chương 13 - 17)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%204%20%20%28Ch%C6%B0%C6%A1ng%2013%20-%2017%29.opus",
+    "part": "P2",
+    "chapter_start": 13,
+    "chapter_end": 17
+  },
+  {
+    "id": 5,
+    "title": "Tập 5  (Chương 18 - 22)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%205%20%20%28Ch%C6%B0%C6%A1ng%2018%20-%2022%29.opus",
+    "part": "P2",
+    "chapter_start": 18,
+    "chapter_end": 22
+  },
+  {
+    "id": 6,
+    "title": "Tập 6  (Chương 23 - 27)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%206%20%20%28Ch%C6%B0%C6%A1ng%2023%20-%2027%29.opus",
+    "part": "P2",
+    "chapter_start": 23,
+    "chapter_end": 27
+  },
+  {
+    "id": 7,
+    "title": "Tập 7  (Chương 28 - 32)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%207%20%20%28Ch%C6%B0%C6%A1ng%2028%20-%2032%29.opus",
+    "part": "P2",
+    "chapter_start": 28,
+    "chapter_end": 32
+  },
+  {
+    "id": 8,
+    "title": "Tập 8  (Chương 33 - 38)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%208%20%20%28Ch%C6%B0%C6%A1ng%2033%20-%2038%29.opus",
+    "part": "P2",
+    "chapter_start": 33,
+    "chapter_end": 38
+  },
+  {
+    "id": 9,
+    "title": "Tập 9  (Chương 39 - 44)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%209%20%20%28Ch%C6%B0%C6%A1ng%2039%20-%2044%29.opus",
+    "part": "P2",
+    "chapter_start": 39,
+    "chapter_end": 44
+  },
+  {
+    "id": 10,
+    "title": "Tập 10  (Chương 45 - 50)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2010%20%20%28Ch%C6%B0%C6%A1ng%2045%20-%2050%29.opus",
+    "part": "P2",
+    "chapter_start": 45,
+    "chapter_end": 50
+  },
+  {
+    "id": 11,
+    "title": "Tập 11  (Chương 51 - 55)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2011%20%20%28Ch%C6%B0%C6%A1ng%2051%20-%2055%29.opus",
+    "part": "P2",
+    "chapter_start": 51,
+    "chapter_end": 55
+  },
+  {
+    "id": 12,
+    "title": "Tập 12  (Chương 56 - 60)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2012%20%20%28Ch%C6%B0%C6%A1ng%2056%20-%2060%29.opus",
+    "part": "P2",
+    "chapter_start": 56,
+    "chapter_end": 60
+  },
+  {
+    "id": 13,
+    "title": "Tập 13  (Chương 61 - 64)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2013%20%20%28Ch%C6%B0%C6%A1ng%2061%20-%2064%29.opus",
+    "part": "P2",
+    "chapter_start": 61,
+    "chapter_end": 64
+  },
+  {
+    "id": 14,
+    "title": "Tập 14  (Chương 65 - 68)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2014%20%20%28Ch%C6%B0%C6%A1ng%2065%20-%2068%29.opus",
+    "part": "P2",
+    "chapter_start": 65,
+    "chapter_end": 68
+  },
+  {
+    "id": 15,
+    "title": "Tập 15  (Chương 69 - 72)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2015%20%20%28Ch%C6%B0%C6%A1ng%2069%20-%2072%29.opus",
+    "part": "P2",
+    "chapter_start": 69,
+    "chapter_end": 72
+  },
+  {
+    "id": 16,
+    "title": "Tập 16  (Chương 73 - 76)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2016%20%20%28Ch%C6%B0%C6%A1ng%2073%20-%2076%29.opus",
+    "part": "P2",
+    "chapter_start": 73,
+    "chapter_end": 76
+  },
+  {
+    "id": 17,
+    "title": "Tập 17  (Chương 77 - 80)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2017%20%20%28Ch%C6%B0%C6%A1ng%2077%20-%2080%29.opus",
+    "part": "P2",
+    "chapter_start": 77,
+    "chapter_end": 80
+  },
+  {
+    "id": 18,
+    "title": "Tập 18  (Chương 81 - 85)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2018%20%20%28Ch%C6%B0%C6%A1ng%2081%20-%2085%29.opus",
+    "part": "P2",
+    "chapter_start": 81,
+    "chapter_end": 85
+  },
+  {
+    "id": 19,
+    "title": "Tập 19  (Chương 86 - 89)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2019%20%20%28Ch%C6%B0%C6%A1ng%2086%20-%2089%29.opus",
+    "part": "P2",
+    "chapter_start": 86,
+    "chapter_end": 89
+  },
+  {
+    "id": 20,
+    "title": "Tập 20  (Chương 90 - 94)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2020%20%20%28Ch%C6%B0%C6%A1ng%2090%20-%2094%29.opus",
+    "part": "P2",
+    "chapter_start": 90,
+    "chapter_end": 94
+  },
+  {
+    "id": 21,
+    "title": "Tập 21  (Chương 95 - 98)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2021%20%20%28Ch%C6%B0%C6%A1ng%2095%20-%2098%29.opus",
+    "part": "P2",
+    "chapter_start": 95,
+    "chapter_end": 98
+  },
+  {
+    "id": 22,
+    "title": "Tập 22  (Chương 99 - 103)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2022%20%20%28Ch%C6%B0%C6%A1ng%2099%20-%20103%29.opus",
+    "part": "P2",
+    "chapter_start": 99,
+    "chapter_end": 103
+  },
+  {
+    "id": 23,
+    "title": "Tập 23  (Chương 104 - 107)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2023%20%20%28Ch%C6%B0%C6%A1ng%20104%20-%20107%29.opus",
+    "part": "P2",
+    "chapter_start": 104,
+    "chapter_end": 107
+  },
+  {
+    "id": 24,
+    "title": "Tập 24  (Chương 108 - 111)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2024%20%20%28Ch%C6%B0%C6%A1ng%20108%20-%20111%29.opus",
+    "part": "P2",
+    "chapter_start": 108,
+    "chapter_end": 111
+  },
+  {
+    "id": 25,
+    "title": "Tập 25  (Chương 112 - 115)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2025%20%20%28Ch%C6%B0%C6%A1ng%20112%20-%20115%29.opus",
+    "part": "P2",
+    "chapter_start": 112,
+    "chapter_end": 115
+  },
+  {
+    "id": 26,
+    "title": "Tập 26  (Chương 116 - 119)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2026%20%20%28Ch%C6%B0%C6%A1ng%20116%20-%20119%29.opus",
+    "part": "P2",
+    "chapter_start": 116,
+    "chapter_end": 119
+  },
+  {
+    "id": 27,
+    "title": "Tập 27  (Chương 120 - 123)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2027%20%20%28Ch%C6%B0%C6%A1ng%20120%20-%20123%29.opus",
+    "part": "P2",
+    "chapter_start": 120,
+    "chapter_end": 123
+  },
+  {
+    "id": 28,
+    "title": "Tập 28  (Chương 124 - 127)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2028%20%20%28Ch%C6%B0%C6%A1ng%20124%20-%20127%29.opus",
+    "part": "P2",
+    "chapter_start": 124,
+    "chapter_end": 127
+  },
+  {
+    "id": 29,
+    "title": "Tập 29  (Chương 128 - 131)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2029%20%20%28Ch%C6%B0%C6%A1ng%20128%20-%20131%29.opus",
+    "part": "P2",
+    "chapter_start": 128,
+    "chapter_end": 131
+  },
+  {
+    "id": 30,
+    "title": "Tập 30  (Chương 132 - 135)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2030%20%20%28Ch%C6%B0%C6%A1ng%20132%20-%20135%29.opus",
+    "part": "P2",
+    "chapter_start": 132,
+    "chapter_end": 135
+  },
+  {
+    "id": 31,
+    "title": "Tập 31  (Chương 136 - 139)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2031%20%20%28Ch%C6%B0%C6%A1ng%20136%20-%20139%29.opus",
+    "part": "P2",
+    "chapter_start": 136,
+    "chapter_end": 139
+  },
+  {
+    "id": 32,
+    "title": "Tập 32  (Chương 140 - 143)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2032%20%20%28Ch%C6%B0%C6%A1ng%20140%20-%20143%29.opus",
+    "part": "P2",
+    "chapter_start": 140,
+    "chapter_end": 143
+  },
+  {
+    "id": 33,
+    "title": "Tập 33  (Chương 144 - 148",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2033%20%20%28Ch%C6%B0%C6%A1ng%20144%20-%20148.opus",
+    "part": "P2",
+    "chapter_start": 144,
+    "chapter_end": 148
+  },
+  {
+    "id": 34,
+    "title": "Tập 34  (Chương 149 - 152)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2034%20%20%28Ch%C6%B0%C6%A1ng%20149%20-%20152%29.opus",
+    "part": "P2",
+    "chapter_start": 149,
+    "chapter_end": 152
+  },
+  {
+    "id": 35,
+    "title": "Tập 35  (Chương 153 - 157)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2035%20%20%28Ch%C6%B0%C6%A1ng%20153%20-%20157%29.opus",
+    "part": "P2",
+    "chapter_start": 153,
+    "chapter_end": 157
+  },
+  {
+    "id": 36,
+    "title": "Tập 36  (Chương 158 - 161)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2036%20%20%28Ch%C6%B0%C6%A1ng%20158%20-%20161%29.opus",
+    "part": "P2",
+    "chapter_start": 158,
+    "chapter_end": 161
+  },
+  {
+    "id": 37,
+    "title": "Tập 37  (Chương 162 - 165)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2037%20%20%28Ch%C6%B0%C6%A1ng%20162%20-%20165%29.opus",
+    "part": "P2",
+    "chapter_start": 162,
+    "chapter_end": 165
+  },
+  {
+    "id": 38,
+    "title": "Tập 38  (Chương 166 - 169)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2038%20%20%28Ch%C6%B0%C6%A1ng%20166%20-%20169%29.opus",
+    "part": "P2",
+    "chapter_start": 166,
+    "chapter_end": 169
+  },
+  {
+    "id": 39,
+    "title": "Tập 39  (Chương 170 - 173)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2039%20%20%28Ch%C6%B0%C6%A1ng%20170%20-%20173%29.opus",
+    "part": "P2",
+    "chapter_start": 170,
+    "chapter_end": 173
+  },
+  {
+    "id": 40,
+    "title": "Tập 40  (Chương 174 - 177)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2040%20%20%28Ch%C6%B0%C6%A1ng%20174%20-%20177%29.opus",
+    "part": "P2",
+    "chapter_start": 174,
+    "chapter_end": 177
+  },
+  {
+    "id": 41,
+    "title": "Tập 41  (Chương 178 - 181)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2041%20%20%28Ch%C6%B0%C6%A1ng%20178%20-%20181%29.opus",
+    "part": "P2",
+    "chapter_start": 178,
+    "chapter_end": 181
+  },
+  {
+    "id": 42,
+    "title": "Tập 42  (Chương 182 - 185)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2042%20%20%28Ch%C6%B0%C6%A1ng%20182%20-%20185%29.opus",
+    "part": "P2",
+    "chapter_start": 182,
+    "chapter_end": 185
+  },
+  {
+    "id": 43,
+    "title": "Tập 43  (Chương 186 - 189)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2043%20%20%28Ch%C6%B0%C6%A1ng%20186%20-%20189%29.opus",
+    "part": "P2",
+    "chapter_start": 186,
+    "chapter_end": 189
+  },
+  {
+    "id": 44,
+    "title": "Tập 44  (Chương 190 - 193)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2044%20%20%28Ch%C6%B0%C6%A1ng%20190%20-%20193%29.opus",
+    "part": "P2",
+    "chapter_start": 190,
+    "chapter_end": 193
+  },
+  {
+    "id": 45,
+    "title": "Tập 45  (Chương 194 - 197)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2045%20%20%28Ch%C6%B0%C6%A1ng%20194%20-%20197%29.opus",
+    "part": "P2",
+    "chapter_start": 194,
+    "chapter_end": 197
+  },
+  {
+    "id": 46,
+    "title": "Tập 46  (Chương 198 - 201)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2046%20%20%28Ch%C6%B0%C6%A1ng%20198%20-%20201%29.opus",
+    "part": "P2",
+    "chapter_start": 198,
+    "chapter_end": 201
+  },
+  {
+    "id": 47,
+    "title": "Tập 47  (Chương 202 - 206)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2047%20%20%28Ch%C6%B0%C6%A1ng%20202%20-%20206%29.opus",
+    "part": "P2",
+    "chapter_start": 202,
+    "chapter_end": 206
+  },
+  {
+    "id": 48,
+    "title": "Tập 48  (Chương 207 - 210)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2048%20%20%28Ch%C6%B0%C6%A1ng%20207%20-%20210%29.opus",
+    "part": "P2",
+    "chapter_start": 207,
+    "chapter_end": 210
+  },
+  {
+    "id": 49,
+    "title": "Tập 49  (Chương 211 - 215)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2049%20%20%28Ch%C6%B0%C6%A1ng%20211%20-%20215%29.opus",
+    "part": "P2",
+    "chapter_start": 211,
+    "chapter_end": 215
+  },
+  {
+    "id": 50,
+    "title": "Tập 50  (Chương 216 - 219)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2050%20%20%28Ch%C6%B0%C6%A1ng%20216%20-%20219%29.opus",
+    "part": "P2",
+    "chapter_start": 216,
+    "chapter_end": 219
+  },
+  {
+    "id": 51,
+    "title": "Tập 51  (Chương 220 - 223)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2051%20%20%28Ch%C6%B0%C6%A1ng%20220%20-%20223%29.opus",
+    "part": "P2",
+    "chapter_start": 220,
+    "chapter_end": 223
+  },
+  {
+    "id": 52,
+    "title": "Tập 52  (Chương 224 - 227)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2052%20%20%28Ch%C6%B0%C6%A1ng%20224%20-%20227%29.opus",
+    "part": "P2",
+    "chapter_start": 224,
+    "chapter_end": 227
+  },
+  {
+    "id": 53,
+    "title": "Tập 53  (Chương 228 - 231)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2053%20%20%28Ch%C6%B0%C6%A1ng%20228%20-%20231%29.opus",
+    "part": "P2",
+    "chapter_start": 228,
+    "chapter_end": 231
+  },
+  {
+    "id": 54,
+    "title": "Tập 54  (Chương 232 - 235)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2054%20%20%28Ch%C6%B0%C6%A1ng%20232%20-%20235%29.opus",
+    "part": "P2",
+    "chapter_start": 232,
+    "chapter_end": 235
+  },
+  {
+    "id": 55,
+    "title": "Tập 55  (Chương 236 - 239)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2055%20%20%28Ch%C6%B0%C6%A1ng%20236%20-%20239%29.opus",
+    "part": "P2",
+    "chapter_start": 236,
+    "chapter_end": 239
+  },
+  {
+    "id": 56,
+    "title": "Tập 56  (Chương 240 - 243)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2056%20%20%28Ch%C6%B0%C6%A1ng%20240%20-%20243%29.opus",
+    "part": "P2",
+    "chapter_start": 240,
+    "chapter_end": 243
+  },
+  {
+    "id": 57,
+    "title": "Tập 57  (Chương 244 - 247)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2057%20%20%28Ch%C6%B0%C6%A1ng%20244%20-%20247%29.opus",
+    "part": "P2",
+    "chapter_start": 244,
+    "chapter_end": 247
+  },
+  {
+    "id": 58,
+    "title": "Tập 58  (Chương 248 - 251)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2058%20%20%28Ch%C6%B0%C6%A1ng%20248%20-%20251%29.opus",
+    "part": "P2",
+    "chapter_start": 248,
+    "chapter_end": 251
+  },
+  {
+    "id": 59,
+    "title": "Tập 59  (Chương 252 - 255)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2059%20%20%28Ch%C6%B0%C6%A1ng%20252%20-%20255%29.opus",
+    "part": "P2",
+    "chapter_start": 252,
+    "chapter_end": 255
+  },
+  {
+    "id": 60,
+    "title": "Tập 60  (Chương 256 - 259)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2060%20%20%28Ch%C6%B0%C6%A1ng%20256%20-%20259%29.opus",
+    "part": "P2",
+    "chapter_start": 256,
+    "chapter_end": 259
+  },
+  {
+    "id": 61,
+    "title": "Tập 61  (Chương 260 - 264)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2061%20%20%28Ch%C6%B0%C6%A1ng%20260%20-%20264%29.opus",
+    "part": "P2",
+    "chapter_start": 260,
+    "chapter_end": 264
+  },
+  {
+    "id": 62,
+    "title": "Tập 62  (Chương 265 - 268)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2062%20%20%28Ch%C6%B0%C6%A1ng%20265%20-%20268%29.opus",
+    "part": "P2",
+    "chapter_start": 265,
+    "chapter_end": 268
+  },
+  {
+    "id": 63,
+    "title": "Tập 63  (Chương 269 - 273)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2063%20%20%28Ch%C6%B0%C6%A1ng%20269%20-%20273%29.opus",
+    "part": "P2",
+    "chapter_start": 269,
+    "chapter_end": 273
+  },
+  {
+    "id": 64,
+    "title": "Tập 64  (Chương 274 - 278)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2064%20%20%28Ch%C6%B0%C6%A1ng%20274%20-%20278%29.opus",
+    "part": "P2",
+    "chapter_start": 274,
+    "chapter_end": 278
+  },
+  {
+    "id": 65,
+    "title": "Tập 65  (Chương 279 - 282)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2065%20%20%28Ch%C6%B0%C6%A1ng%20279%20-%20282%29.opus",
+    "part": "P2",
+    "chapter_start": 279,
+    "chapter_end": 282
+  },
+  {
+    "id": 66,
+    "title": "Tập 66  (Chương 283 - 286)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2066%20%20%28Ch%C6%B0%C6%A1ng%20283%20-%20286%29.opus",
+    "part": "P2",
+    "chapter_start": 283,
+    "chapter_end": 286
+  },
+  {
+    "id": 67,
+    "title": "Tập 67  (Chương 287 - 290)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2067%20%20%28Ch%C6%B0%C6%A1ng%20287%20-%20290%29.opus",
+    "part": "P2",
+    "chapter_start": 287,
+    "chapter_end": 290
+  },
+  {
+    "id": 68,
+    "title": "Tập 68  (Chương 291 - 294)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2068%20%20%28Ch%C6%B0%C6%A1ng%20291%20-%20294%29.opus",
+    "part": "P2",
+    "chapter_start": 291,
+    "chapter_end": 294
+  },
+  {
+    "id": 69,
+    "title": "Tập 69  (Chương 295 - 298)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2069%20%20%28Ch%C6%B0%C6%A1ng%20295%20-%20298%29.opus",
+    "part": "P2",
+    "chapter_start": 295,
+    "chapter_end": 298
+  },
+  {
+    "id": 70,
+    "title": "Tập 70  (Chương 299 - 302)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2070%20%20%28Ch%C6%B0%C6%A1ng%20299%20-%20302%29.opus",
+    "part": "P2",
+    "chapter_start": 299,
+    "chapter_end": 302
+  },
+  {
+    "id": 71,
+    "title": "Tập 71  (Chương 303 - 306)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2071%20%20%28Ch%C6%B0%C6%A1ng%20303%20-%20306%29.opus",
+    "part": "P2",
+    "chapter_start": 303,
+    "chapter_end": 306
+  },
+  {
+    "id": 72,
+    "title": "Tập 72  (Chương 307 - 310)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2072%20%20%28Ch%C6%B0%C6%A1ng%20307%20-%20310%29.opus",
+    "part": "P2",
+    "chapter_start": 307,
+    "chapter_end": 310
+  },
+  {
+    "id": 73,
+    "title": "Tập 73  (Chương 311 - 314)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2073%20%20%28Ch%C6%B0%C6%A1ng%20311%20-%20314%29.opus",
+    "part": "P2",
+    "chapter_start": 311,
+    "chapter_end": 314
+  },
+  {
+    "id": 74,
+    "title": "Tập 74  (Chương 315 - 318)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2074%20%20%28Ch%C6%B0%C6%A1ng%20315%20-%20318%29.opus",
+    "part": "P2",
+    "chapter_start": 315,
+    "chapter_end": 318
+  },
+  {
+    "id": 75,
+    "title": "Tập 75  (Chương 319 - 323)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2075%20%20%28Ch%C6%B0%C6%A1ng%20319%20-%20323%29.opus",
+    "part": "P2",
+    "chapter_start": 319,
+    "chapter_end": 323
+  },
+  {
+    "id": 76,
+    "title": "Tập 76  (Chương 324 - 327)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2076%20%20%28Ch%C6%B0%C6%A1ng%20324%20-%20327%29.opus",
+    "part": "P2",
+    "chapter_start": 324,
+    "chapter_end": 327
+  },
+  {
+    "id": 77,
+    "title": "Tập 77  (Chương 328 - 332)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2077%20%20%28Ch%C6%B0%C6%A1ng%20328%20-%20332%29.opus",
+    "part": "P2",
+    "chapter_start": 328,
+    "chapter_end": 332
+  },
+  {
+    "id": 78,
+    "title": "Tập 78  (Chương 333 - 337)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2078%20%20%28Ch%C6%B0%C6%A1ng%20333%20-%20337%29.opus",
+    "part": "P2",
+    "chapter_start": 333,
+    "chapter_end": 337
+  },
+  {
+    "id": 79,
+    "title": "Tập 79  (Chương 338 - 341)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2079%20%20%28Ch%C6%B0%C6%A1ng%20338%20-%20341%29.opus",
+    "part": "P2",
+    "chapter_start": 338,
+    "chapter_end": 341
+  },
+  {
+    "id": 80,
+    "title": "Tập 80  (Chương 342 - 345)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2080%20%20%28Ch%C6%B0%C6%A1ng%20342%20-%20345%29.opus",
+    "part": "P2",
+    "chapter_start": 342,
+    "chapter_end": 345
+  },
+  {
+    "id": 81,
+    "title": "Tập 81  (Chương 346 - 349)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2081%20%20%28Ch%C6%B0%C6%A1ng%20346%20-%20349%29.opus",
+    "part": "P2",
+    "chapter_start": 346,
+    "chapter_end": 349
+  },
+  {
+    "id": 82,
+    "title": "Tập 82  (Chương 350 - 353)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2082%20%20%28Ch%C6%B0%C6%A1ng%20350%20-%20353%29.opus",
+    "part": "P2",
+    "chapter_start": 350,
+    "chapter_end": 353
+  },
+  {
+    "id": 83,
+    "title": "Tập 83  (Chương 354 - 357)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2083%20%20%28Ch%C6%B0%C6%A1ng%20354%20-%20357%29.opus",
+    "part": "P2",
+    "chapter_start": 354,
+    "chapter_end": 357
+  },
+  {
+    "id": 84,
+    "title": "Tập 84  (Chương 358 - 361)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2084%20%20%28Ch%C6%B0%C6%A1ng%20358%20-%20361%29.opus",
+    "part": "P2",
+    "chapter_start": 358,
+    "chapter_end": 361
+  },
+  {
+    "id": 85,
+    "title": "Tập 85  (Chương 362 - 365)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2085%20%20%28Ch%C6%B0%C6%A1ng%20362%20-%20365%29.opus",
+    "part": "P2",
+    "chapter_start": 362,
+    "chapter_end": 365
+  },
+  {
+    "id": 86,
+    "title": "Tập 86  (Chương 366 - 369)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2086%20%20%28Ch%C6%B0%C6%A1ng%20366%20-%20369%29.opus",
+    "part": "P2",
+    "chapter_start": 366,
+    "chapter_end": 369
+  },
+  {
+    "id": 87,
+    "title": "Tập 87  (Chương 370 - 373)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2087%20%20%28Ch%C6%B0%C6%A1ng%20370%20-%20373%29.opus",
+    "part": "P2",
+    "chapter_start": 370,
+    "chapter_end": 373
+  },
+  {
+    "id": 88,
+    "title": "Tập 88  (Chương 374 - 377)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2088%20%20%28Ch%C6%B0%C6%A1ng%20374%20-%20377%29.opus",
+    "part": "P2",
+    "chapter_start": 374,
+    "chapter_end": 377
+  },
+  {
+    "id": 89,
+    "title": "Tập 89  (Chương 378 - 381)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2089%20%20%28Ch%C6%B0%C6%A1ng%20378%20-%20381%29.opus",
+    "part": "P2",
+    "chapter_start": 378,
+    "chapter_end": 381
+  },
+  {
+    "id": 90,
+    "title": "Tập 90  (Chương 382 - 385)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2090%20%20%28Ch%C6%B0%C6%A1ng%20382%20-%20385%29.opus",
+    "part": "P2",
+    "chapter_start": 382,
+    "chapter_end": 385
+  },
+  {
+    "id": 91,
+    "title": "Tập 91  (Chương 386 - 390)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2091%20%20%28Ch%C6%B0%C6%A1ng%20386%20-%20390%29.opus",
+    "part": "P2",
+    "chapter_start": 386,
+    "chapter_end": 390
+  },
+  {
+    "id": 92,
+    "title": "Tập 92  (Chương 391 - 394)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2092%20%20%28Ch%C6%B0%C6%A1ng%20391%20-%20394%29.opus",
+    "part": "P2",
+    "chapter_start": 391,
+    "chapter_end": 394
+  },
+  {
+    "id": 93,
+    "title": "Tập 93  (Chương 395 - 398)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2093%20%20%28Ch%C6%B0%C6%A1ng%20395%20-%20398%29.opus",
+    "part": "P2",
+    "chapter_start": 395,
+    "chapter_end": 398
+  },
+  {
+    "id": 94,
+    "title": "Tập 94  (Chương 399 - 402)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2094%20%20%28Ch%C6%B0%C6%A1ng%20399%20-%20402%29.opus",
+    "part": "P2",
+    "chapter_start": 399,
+    "chapter_end": 402
+  },
+  {
+    "id": 95,
+    "title": "Tập 95  (Chương 403 - 406)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2095%20%20%28Ch%C6%B0%C6%A1ng%20403%20-%20406%29.opus",
+    "part": "P2",
+    "chapter_start": 403,
+    "chapter_end": 406
+  },
+  {
+    "id": 96,
+    "title": "Tập 96  (Chương 407 - 410)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2096%20%20%28Ch%C6%B0%C6%A1ng%20407%20-%20410%29.opus",
+    "part": "P2",
+    "chapter_start": 407,
+    "chapter_end": 410
+  },
+  {
+    "id": 97,
+    "title": "Tập 97  (Chương 411 - 414)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2097%20%20%28Ch%C6%B0%C6%A1ng%20411%20-%20414%29.opus",
+    "part": "P2",
+    "chapter_start": 411,
+    "chapter_end": 414
+  },
+  {
+    "id": 98,
+    "title": "Tập 98  (Chương 415 - 418)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2098%20%20%28Ch%C6%B0%C6%A1ng%20415%20-%20418%29.opus",
+    "part": "P2",
+    "chapter_start": 415,
+    "chapter_end": 418
+  },
+  {
+    "id": 99,
+    "title": "Tập 99  (Chương 419 - 422)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%2099%20%20%28Ch%C6%B0%C6%A1ng%20419%20-%20422%29.opus",
+    "part": "P2",
+    "chapter_start": 419,
+    "chapter_end": 422
+  },
+  {
+    "id": 100,
+    "title": "Tập 100  (Chương 423 - 426)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20100%20%20%28Ch%C6%B0%C6%A1ng%20423%20-%20426%29.opus",
+    "part": "P2",
+    "chapter_start": 423,
+    "chapter_end": 426
+  },
+  {
+    "id": 101,
+    "title": "Tập 101  (Chương 427 - 430)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20101%20%20%28Ch%C6%B0%C6%A1ng%20427%20-%20430%29.opus",
+    "part": "P2",
+    "chapter_start": 427,
+    "chapter_end": 430
+  },
+  {
+    "id": 102,
+    "title": "Tập 102  (Chương 431 - 434)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20102%20%20%28Ch%C6%B0%C6%A1ng%20431%20-%20434%29.opus",
+    "part": "P2",
+    "chapter_start": 431,
+    "chapter_end": 434
+  },
+  {
+    "id": 103,
+    "title": "Tập 103  (Chương 435 - 438)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20103%20%20%28Ch%C6%B0%C6%A1ng%20435%20-%20438%29.opus",
+    "part": "P2",
+    "chapter_start": 435,
+    "chapter_end": 438
+  },
+  {
+    "id": 104,
+    "title": "Tập 104  (Chương 439 - 443)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20104%20%20%28Ch%C6%B0%C6%A1ng%20439%20-%20443%29.opus",
+    "part": "P2",
+    "chapter_start": 439,
+    "chapter_end": 443
+  },
+  {
+    "id": 105,
+    "title": "Tập 105  (Chương 444 - 448)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20105%20%20%28Ch%C6%B0%C6%A1ng%20444%20-%20448%29.opus",
+    "part": "P2",
+    "chapter_start": 444,
+    "chapter_end": 448
+  },
+  {
+    "id": 106,
+    "title": "Tập 106  (Chương 449 - 452)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20106%20%20%28Ch%C6%B0%C6%A1ng%20449%20-%20452%29.opus",
+    "part": "P2",
+    "chapter_start": 449,
+    "chapter_end": 452
+  },
+  {
+    "id": 107,
+    "title": "Tập 107  (Chương 453 - 456)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20107%20%20%28Ch%C6%B0%C6%A1ng%20453%20-%20456%29.opus",
+    "part": "P2",
+    "chapter_start": 453,
+    "chapter_end": 456
+  },
+  {
+    "id": 108,
+    "title": "Tập 108  (Chương 457 - 460)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20108%20%20%28Ch%C6%B0%C6%A1ng%20457%20-%20460%29.opus",
+    "part": "P2",
+    "chapter_start": 457,
+    "chapter_end": 460
+  },
+  {
+    "id": 109,
+    "title": "Tập 109  (Chương 461 - 464)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20109%20%20%28Ch%C6%B0%C6%A1ng%20461%20-%20464%29.opus",
+    "part": "P2",
+    "chapter_start": 461,
+    "chapter_end": 464
+  },
+  {
+    "id": 110,
+    "title": "Tập 110  (Chương 465 - 468)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20110%20%20%28Ch%C6%B0%C6%A1ng%20465%20-%20468%29.opus",
+    "part": "P2",
+    "chapter_start": 465,
+    "chapter_end": 468
+  },
+  {
+    "id": 111,
+    "title": "Tập 111  (Chương 469 - 472)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20111%20%20%28Ch%C6%B0%C6%A1ng%20469%20-%20472%29.opus",
+    "part": "P2",
+    "chapter_start": 469,
+    "chapter_end": 472
+  },
+  {
+    "id": 112,
+    "title": "Tập 112  (Chương 473 - 476)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20112%20%20%28Ch%C6%B0%C6%A1ng%20473%20-%20476%29.opus",
+    "part": "P2",
+    "chapter_start": 473,
+    "chapter_end": 476
+  },
+  {
+    "id": 113,
+    "title": "Tập 113  (Chương 477 - 480)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20113%20%20%28Ch%C6%B0%C6%A1ng%20477%20-%20480%29.opus",
+    "part": "P2",
+    "chapter_start": 477,
+    "chapter_end": 480
+  },
+  {
+    "id": 114,
+    "title": "Tập 114  (Chương 481 - 484)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20114%20%20%28Ch%C6%B0%C6%A1ng%20481%20-%20484%29.opus",
+    "part": "P2",
+    "chapter_start": 481,
+    "chapter_end": 484
+  },
+  {
+    "id": 115,
+    "title": "Tập 115  (Chương 485 - 488)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20115%20%20%28Ch%C6%B0%C6%A1ng%20485%20-%20488%29.opus",
+    "part": "P2",
+    "chapter_start": 485,
+    "chapter_end": 488
+  },
+  {
+    "id": 116,
+    "title": "Tập 116  (Chương 489 - 492)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20116%20%20%28Ch%C6%B0%C6%A1ng%20489%20-%20492%29.opus",
+    "part": "P2",
+    "chapter_start": 489,
+    "chapter_end": 492
+  },
+  {
+    "id": 117,
+    "title": "Tập 117  (Chương 493 - 496)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20117%20%20%28Ch%C6%B0%C6%A1ng%20493%20-%20496%29.opus",
+    "part": "P2",
+    "chapter_start": 493,
+    "chapter_end": 496
+  },
+  {
+    "id": 118,
+    "title": "Tập 118  (Chương 497 - 501)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20118%20%20%28Ch%C6%B0%C6%A1ng%20497%20-%20501%29.opus",
+    "part": "P2",
+    "chapter_start": 497,
+    "chapter_end": 501
+  },
+  {
+    "id": 119,
+    "title": "Tập 119  (Chương 502 - 506)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20119%20%20%28Ch%C6%B0%C6%A1ng%20502%20-%20506%29.opus",
+    "part": "P2",
+    "chapter_start": 502,
+    "chapter_end": 506
+  },
+  {
+    "id": 120,
+    "title": "Tập 120  (Chương 507 - 511)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20120%20%20%28Ch%C6%B0%C6%A1ng%20507%20-%20511%29.opus",
+    "part": "P2",
+    "chapter_start": 507,
+    "chapter_end": 511
+  },
+  {
+    "id": 121,
+    "title": "Tập 121  (Chương 512 - 515)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20121%20%20%28Ch%C6%B0%C6%A1ng%20512%20-%20515%29.opus",
+    "part": "P2",
+    "chapter_start": 512,
+    "chapter_end": 515
+  },
+  {
+    "id": 122,
+    "title": "Tập 122  (Chương 516 - 519)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20122%20%20%28Ch%C6%B0%C6%A1ng%20516%20-%20519%29.opus",
+    "part": "P2",
+    "chapter_start": 516,
+    "chapter_end": 519
+  },
+  {
+    "id": 123,
+    "title": "Tập 123  (Chương 520 - 523)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20123%20%20%28Ch%C6%B0%C6%A1ng%20520%20-%20523%29.opus",
+    "part": "P2",
+    "chapter_start": 520,
+    "chapter_end": 523
+  },
+  {
+    "id": 124,
+    "title": "Tập 124  (Chương 524 - 527)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20124%20%20%28Ch%C6%B0%C6%A1ng%20524%20-%20527%29.opus",
+    "part": "P2",
+    "chapter_start": 524,
+    "chapter_end": 527
+  },
+  {
+    "id": 125,
+    "title": "Tập 125  (Chương 528 - 531)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20125%20%20%28Ch%C6%B0%C6%A1ng%20528%20-%20531%29.opus",
+    "part": "P2",
+    "chapter_start": 528,
+    "chapter_end": 531
+  },
+  {
+    "id": 126,
+    "title": "Tập 126  (Chương 532 - 535)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20126%20%20%28Ch%C6%B0%C6%A1ng%20532%20-%20535%29.opus",
+    "part": "P2",
+    "chapter_start": 532,
+    "chapter_end": 535
+  },
+  {
+    "id": 127,
+    "title": "Tập 127  (Chương 536 - 539)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20127%20%20%28Ch%C6%B0%C6%A1ng%20536%20-%20539%29.opus",
+    "part": "P2",
+    "chapter_start": 536,
+    "chapter_end": 539
+  },
+  {
+    "id": 128,
+    "title": "Tập 128  (Chương 540 - 544)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20128%20%20%28Ch%C6%B0%C6%A1ng%20540%20-%20544%29.opus",
+    "part": "P2",
+    "chapter_start": 540,
+    "chapter_end": 544
+  },
+  {
+    "id": 129,
+    "title": "Tập 129  (Chương 545 - 548)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20129%20%20%28Ch%C6%B0%C6%A1ng%20545%20-%20548%29.opus",
+    "part": "P2",
+    "chapter_start": 545,
+    "chapter_end": 548
+  },
+  {
+    "id": 130,
+    "title": "Tập 130  (Chương 549 - 553)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20130%20%20%28Ch%C6%B0%C6%A1ng%20549%20-%20553%29.opus",
+    "part": "P2",
+    "chapter_start": 549,
+    "chapter_end": 553
+  },
+  {
+    "id": 131,
+    "title": "Tập 131  (Chương 553 - 558)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20131%20%20%28Ch%C6%B0%C6%A1ng%20553%20-%20558%29.opus",
+    "part": "P2",
+    "chapter_start": 553,
+    "chapter_end": 558
+  },
+  {
+    "id": 132,
+    "title": "Tập 132  (Chương 559 - 562)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20132%20%20%28Ch%C6%B0%C6%A1ng%20559%20-%20562%29.opus",
+    "part": "P2",
+    "chapter_start": 559,
+    "chapter_end": 562
+  },
+  {
+    "id": 133,
+    "title": "Tập 133  (Chương 563 - 567)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20133%20%20%28Ch%C6%B0%C6%A1ng%20563%20-%20567%29.opus",
+    "part": "P2",
+    "chapter_start": 563,
+    "chapter_end": 567
+  },
+  {
+    "id": 134,
+    "title": "Tập 134  (Chương 568 - 572)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20134%20%20%28Ch%C6%B0%C6%A1ng%20568%20-%20572%29.opus",
+    "part": "P2",
+    "chapter_start": 568,
+    "chapter_end": 572
+  },
+  {
+    "id": 135,
+    "title": "Tập 135  (Chương 573 - 576)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20135%20%20%28Ch%C6%B0%C6%A1ng%20573%20-%20576%29.opus",
+    "part": "P2",
+    "chapter_start": 573,
+    "chapter_end": 576
+  },
+  {
+    "id": 136,
+    "title": "Tập 136  (Chương 577 - 580)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20136%20%20%28Ch%C6%B0%C6%A1ng%20577%20-%20580%29.opus",
+    "part": "P2",
+    "chapter_start": 577,
+    "chapter_end": 580
+  },
+  {
+    "id": 137,
+    "title": "Tập 137  (Chương 581 - 584)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20137%20%20%28Ch%C6%B0%C6%A1ng%20581%20-%20584%29.opus",
+    "part": "P2",
+    "chapter_start": 581,
+    "chapter_end": 584
+  },
+  {
+    "id": 138,
+    "title": "Tập 138  (Chương 585 - 588)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20138%20%20%28Ch%C6%B0%C6%A1ng%20585%20-%20588%29.opus",
+    "part": "P2",
+    "chapter_start": 585,
+    "chapter_end": 588
+  },
+  {
+    "id": 139,
+    "title": "Tập 139  (Chương 589 - 593)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20139%20%20%28Ch%C6%B0%C6%A1ng%20589%20-%20593%29.opus",
+    "part": "P2",
+    "chapter_start": 589,
+    "chapter_end": 593
+  },
+  {
+    "id": 140,
+    "title": "Tập 140  (Chương 594 - 598)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20140%20%20%28Ch%C6%B0%C6%A1ng%20594%20-%20598%29.opus",
+    "part": "P2",
+    "chapter_start": 594,
+    "chapter_end": 598
+  },
+  {
+    "id": 141,
+    "title": "Tập 141 (Chương 599 - 602)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20141%20%28Ch%C6%B0%C6%A1ng%20599%20-%20602%29.opus",
+    "part": "P2",
+    "chapter_start": 599,
+    "chapter_end": 602
+  },
+  {
+    "id": 142,
+    "title": "Tập 142 (Chương 603 - 606)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20142%20%28Ch%C6%B0%C6%A1ng%20603%20-%20606%29.opus",
+    "part": "P2",
+    "chapter_start": 603,
+    "chapter_end": 606
+  },
+  {
+    "id": 143,
+    "title": "Tập 143 (Chương 607 - 610)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20143%20%28Ch%C6%B0%C6%A1ng%20607%20-%20610%29.opus",
+    "part": "P2",
+    "chapter_start": 607,
+    "chapter_end": 610
+  },
+  {
+    "id": 144,
+    "title": "Tập 144 (Chương 611 - 614)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20144%20%28Ch%C6%B0%C6%A1ng%20611%20-%20614%29.opus",
+    "part": "P2",
+    "chapter_start": 611,
+    "chapter_end": 614
+  },
+  {
+    "id": 145,
+    "title": "Tập 145 (Chương 615 - 619)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20145%20%28Ch%C6%B0%C6%A1ng%20615%20-%20619%29.opus",
+    "part": "P2",
+    "chapter_start": 615,
+    "chapter_end": 619
+  },
+  {
+    "id": 146,
+    "title": "Tập 146 (Chương 620 - 623)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20146%20%28Ch%C6%B0%C6%A1ng%20620%20-%20623%29.opus",
+    "part": "P2",
+    "chapter_start": 620,
+    "chapter_end": 623
+  },
+  {
+    "id": 147,
+    "title": "Tập 147 (Chương 624 - 628)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20147%20%28Ch%C6%B0%C6%A1ng%20624%20-%20628%29.opus",
+    "part": "P2",
+    "chapter_start": 624,
+    "chapter_end": 628
+  },
+  {
+    "id": 148,
+    "title": "Tập 148 (Chương 629 - 633)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20148%20%28Ch%C6%B0%C6%A1ng%20629%20-%20633%29.opus",
+    "part": "P2",
+    "chapter_start": 629,
+    "chapter_end": 633
+  },
+  {
+    "id": 149,
+    "title": "Tập 149 (Chương 634 - 637)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20149%20%28Ch%C6%B0%C6%A1ng%20634%20-%20637%29.opus",
+    "part": "P2",
+    "chapter_start": 634,
+    "chapter_end": 637
+  },
+  {
+    "id": 150,
+    "title": "Tập 150 (Chương 638 - 641)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20150%20%28Ch%C6%B0%C6%A1ng%20638%20-%20641%29.opus",
+    "part": "P2",
+    "chapter_start": 638,
+    "chapter_end": 641
+  },
+  {
+    "id": 151,
+    "title": "Tập 151 (Chương 642 - 645)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20151%20%28Ch%C6%B0%C6%A1ng%20642%20-%20645%29.opus",
+    "part": "P2",
+    "chapter_start": 642,
+    "chapter_end": 645
+  },
+  {
+    "id": 152,
+    "title": "Tập 152 (Chương 646 - 649)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20152%20%28Ch%C6%B0%C6%A1ng%20646%20-%20649%29.opus",
+    "part": "P2",
+    "chapter_start": 646,
+    "chapter_end": 649
+  },
+  {
+    "id": 153,
+    "title": "Tập 153 (Chương 650 - 654)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20153%20%28Ch%C6%B0%C6%A1ng%20650%20-%20654%29.opus",
+    "part": "P2",
+    "chapter_start": 650,
+    "chapter_end": 654
+  },
+  {
+    "id": 154,
+    "title": "Tập 154 (Chương 655 - 658)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20154%20%28Ch%C6%B0%C6%A1ng%20655%20-%20658%29.opus",
+    "part": "P2",
+    "chapter_start": 655,
+    "chapter_end": 658
+  },
+  {
+    "id": 155,
+    "title": "Tập 155 (Chương 659 - 662)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20155%20%28Ch%C6%B0%C6%A1ng%20659%20-%20662%29.opus",
+    "part": "P2",
+    "chapter_start": 659,
+    "chapter_end": 662
+  },
+  {
+    "id": 156,
+    "title": "Tập 156 (Chương 663 - 667)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20156%20%28Ch%C6%B0%C6%A1ng%20663%20-%20667%29.opus",
+    "part": "P2",
+    "chapter_start": 663,
+    "chapter_end": 667
+  },
+  {
+    "id": 157,
+    "title": "Tập 157 (Chương 668 - 672)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20157%20%28Ch%C6%B0%C6%A1ng%20668%20-%20672%29.opus",
+    "part": "P2",
+    "chapter_start": 668,
+    "chapter_end": 672
+  },
+  {
+    "id": 158,
+    "title": "Tập 158 (Chương 673 - 677)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20158%20%28Ch%C6%B0%C6%A1ng%20673%20-%20677%29.opus",
+    "part": "P2",
+    "chapter_start": 673,
+    "chapter_end": 677
+  },
+  {
+    "id": 159,
+    "title": "Tập 159 (Chương 678 - 682)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20159%20%28Ch%C6%B0%C6%A1ng%20678%20-%20682%29.opus",
+    "part": "P2",
+    "chapter_start": 678,
+    "chapter_end": 682
+  },
+  {
+    "id": 160,
+    "title": "Tập 160 (Chương 683 - 687)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20160%20%28Ch%C6%B0%C6%A1ng%20683%20-%20687%29.opus",
+    "part": "P2",
+    "chapter_start": 683,
+    "chapter_end": 687
+  },
+  {
+    "id": 161,
+    "title": "Tập 161 (Chương 688 - 692)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20161%20%28Ch%C6%B0%C6%A1ng%20688%20-%20692%29.opus",
+    "part": "P2",
+    "chapter_start": 688,
+    "chapter_end": 692
+  },
+  {
+    "id": 162,
+    "title": "Tập 162 (Chương 693 - 697)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20162%20%28Ch%C6%B0%C6%A1ng%20693%20-%20697%29.opus",
+    "part": "P2",
+    "chapter_start": 693,
+    "chapter_end": 697
+  },
+  {
+    "id": 163,
+    "title": "Tập 163 (Chương 698 - 701)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20163%20%28Ch%C6%B0%C6%A1ng%20698%20-%20701%29.opus",
+    "part": "P2",
+    "chapter_start": 698,
+    "chapter_end": 701
+  },
+  {
+    "id": 164,
+    "title": "Tập 164 (Chương 702 - 705)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20164%20%28Ch%C6%B0%C6%A1ng%20702%20-%20705%29.opus",
+    "part": "P2",
+    "chapter_start": 702,
+    "chapter_end": 705
+  },
+  {
+    "id": 165,
+    "title": "Tập 165 (Chương 706 - 709)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20165%20%28Ch%C6%B0%C6%A1ng%20706%20-%20709%29.opus",
+    "part": "P2",
+    "chapter_start": 706,
+    "chapter_end": 709
+  },
+  {
+    "id": 166,
+    "title": "Tập 166 (Chương 710 - 713)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20166%20%28Ch%C6%B0%C6%A1ng%20710%20-%20713%29.opus",
+    "part": "P2",
+    "chapter_start": 710,
+    "chapter_end": 713
+  },
+  {
+    "id": 167,
+    "title": "Tập 167 (Chương 714 - 718)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20167%20%28Ch%C6%B0%C6%A1ng%20714%20-%20718%29.opus",
+    "part": "P2",
+    "chapter_start": 714,
+    "chapter_end": 718
+  },
+  {
+    "id": 168,
+    "title": "Tập 168 (Chương 719 - 722)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20168%20%28Ch%C6%B0%C6%A1ng%20719%20-%20722%29.opus",
+    "part": "P2",
+    "chapter_start": 719,
+    "chapter_end": 722
+  },
+  {
+    "id": 169,
+    "title": "Tập 169 (Chương 723 - 726)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20169%20%28Ch%C6%B0%C6%A1ng%20723%20-%20726%29.opus",
+    "part": "P2",
+    "chapter_start": 723,
+    "chapter_end": 726
+  },
+  {
+    "id": 170,
+    "title": "Tập 170 (Chương 727 - 730)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20170%20%28Ch%C6%B0%C6%A1ng%20727%20-%20730%29.opus",
+    "part": "P2",
+    "chapter_start": 727,
+    "chapter_end": 730
+  },
+  {
+    "id": 171,
+    "title": "Tập 171 (Chương 731 - 734)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20171%20%28Ch%C6%B0%C6%A1ng%20731%20-%20734%29.opus",
+    "part": "P2",
+    "chapter_start": 731,
+    "chapter_end": 734
+  },
+  {
+    "id": 172,
+    "title": "Tập 172 (Chương 735 - 738)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20172%20%28Ch%C6%B0%C6%A1ng%20735%20-%20738%29.opus",
+    "part": "P2",
+    "chapter_start": 735,
+    "chapter_end": 738
+  },
+  {
+    "id": 173,
+    "title": "Tập 173 (Chương 739 - 743)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20173%20%28Ch%C6%B0%C6%A1ng%20739%20-%20743%29.opus",
+    "part": "P2",
+    "chapter_start": 739,
+    "chapter_end": 743
+  },
+  {
+    "id": 174,
+    "title": "Tập 174 (Chương 744 - 747)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20174%20%28Ch%C6%B0%C6%A1ng%20744%20-%20747%29.opus",
+    "part": "P2",
+    "chapter_start": 744,
+    "chapter_end": 747
+  },
+  {
+    "id": 175,
+    "title": "Tập 175 (Chương 748 - 752)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20175%20%28Ch%C6%B0%C6%A1ng%20748%20-%20752%29.opus",
+    "part": "P2",
+    "chapter_start": 748,
+    "chapter_end": 752
+  },
+  {
+    "id": 176,
+    "title": "Tập 176 (Chương 753 - 757)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20176%20%28Ch%C6%B0%C6%A1ng%20753%20-%20757%29.opus",
+    "part": "P2",
+    "chapter_start": 753,
+    "chapter_end": 757
+  },
+  {
+    "id": 177,
+    "title": "Tập 177 (Chương 758 - 761)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20177%20%28Ch%C6%B0%C6%A1ng%20758%20-%20761%29.opus",
+    "part": "P2",
+    "chapter_start": 758,
+    "chapter_end": 761
+  },
+  {
+    "id": 178,
+    "title": "Tập 178 (Chương 762 - 765)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20178%20%28Ch%C6%B0%C6%A1ng%20762%20-%20765%29.opus",
+    "part": "P2",
+    "chapter_start": 762,
+    "chapter_end": 765
+  },
+  {
+    "id": 179,
+    "title": "Tập 179 (Chương 766 - 769)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20179%20%28Ch%C6%B0%C6%A1ng%20766%20-%20769%29.opus",
+    "part": "P2",
+    "chapter_start": 766,
+    "chapter_end": 769
+  },
+  {
+    "id": 180,
+    "title": "Tập 180 (Chương 770 - 773)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20180%20%28Ch%C6%B0%C6%A1ng%20770%20-%20773%29.opus",
+    "part": "P2",
+    "chapter_start": 770,
+    "chapter_end": 773
+  },
+  {
+    "id": 181,
+    "title": "Tập 181 (Chương 774 - 777)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20181%20%28Ch%C6%B0%C6%A1ng%20774%20-%20777%29.opus",
+    "part": "P2",
+    "chapter_start": 774,
+    "chapter_end": 777
+  },
+  {
+    "id": 182,
+    "title": "Tập 182 (Chương 778 - 781) ｜  Tiên Hiệp",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20182%20%28Ch%C6%B0%C6%A1ng%20778%20-%20781%29%20%EF%BD%9C%20%20Ti%C3%AAn%20Hi%E1%BB%87p.opus",
+    "part": "P2",
+    "chapter_start": 778,
+    "chapter_end": 781
+  },
+  {
+    "id": 183,
+    "title": "Tập 183 (Chương 782 - 785)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20183%20%28Ch%C6%B0%C6%A1ng%20782%20-%20785%29.opus",
+    "part": "P2",
+    "chapter_start": 782,
+    "chapter_end": 785
+  },
+  {
+    "id": 184,
+    "title": "Tập 184 (Chương 786 - 789)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20184%20%28Ch%C6%B0%C6%A1ng%20786%20-%20789%29.opus",
+    "part": "P2",
+    "chapter_start": 786,
+    "chapter_end": 789
+  },
+  {
+    "id": 185,
+    "title": "Tập 185 (Chương 790 - 794)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20185%20%28Ch%C6%B0%C6%A1ng%20790%20-%20794%29.opus",
+    "part": "P2",
+    "chapter_start": 790,
+    "chapter_end": 794
+  },
+  {
+    "id": 186,
+    "title": "Tập 186 (Chương 795 - 798)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20186%20%28Ch%C6%B0%C6%A1ng%20795%20-%20798%29.opus",
+    "part": "P2",
+    "chapter_start": 795,
+    "chapter_end": 798
+  },
+  {
+    "id": 187,
+    "title": "Tập 187 (Chương 799 - 803",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20187%20%28Ch%C6%B0%C6%A1ng%20799%20-%20803.opus",
+    "part": "P2",
+    "chapter_start": 799,
+    "chapter_end": 803
+  },
+  {
+    "id": 188,
+    "title": "Tập 188 (Chương 804 - 807",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20188%20%28Ch%C6%B0%C6%A1ng%20804%20-%20807.opus",
+    "part": "P2",
+    "chapter_start": 804,
+    "chapter_end": 807
+  },
+  {
+    "id": 189,
+    "title": "Tập 189 (Chương 808 - 812",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20189%20%28Ch%C6%B0%C6%A1ng%20808%20-%20812.opus",
+    "part": "P2",
+    "chapter_start": 808,
+    "chapter_end": 812
+  },
+  {
+    "id": 190,
+    "title": "Tập 190 (Chương 813 - 817",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20190%20%28Ch%C6%B0%C6%A1ng%20813%20-%20817.opus",
+    "part": "P2",
+    "chapter_start": 813,
+    "chapter_end": 817
+  },
+  {
+    "id": 191,
+    "title": "Tập 191 (Chương 818 - 821",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20191%20%28Ch%C6%B0%C6%A1ng%20818%20-%20821.opus",
+    "part": "P2",
+    "chapter_start": 818,
+    "chapter_end": 821
+  },
+  {
+    "id": 192,
+    "title": "Tập 192 (Chương 822 - 825",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20192%20%28Ch%C6%B0%C6%A1ng%20822%20-%20825.opus",
+    "part": "P2",
+    "chapter_start": 822,
+    "chapter_end": 825
+  },
+  {
+    "id": 193,
+    "title": "Tập 193 (Chương 826 - 829",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20193%20%28Ch%C6%B0%C6%A1ng%20826%20-%20829.opus",
+    "part": "P2",
+    "chapter_start": 826,
+    "chapter_end": 829
+  },
+  {
+    "id": 194,
+    "title": "Tập 194 (Chương 830 - 833",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20194%20%28Ch%C6%B0%C6%A1ng%20830%20-%20833.opus",
+    "part": "P2",
+    "chapter_start": 830,
+    "chapter_end": 833
+  },
+  {
+    "id": 195,
+    "title": "Tập 195 (Chương 834 - 837",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20195%20%28Ch%C6%B0%C6%A1ng%20834%20-%20837.opus",
+    "part": "P2",
+    "chapter_start": 834,
+    "chapter_end": 837
+  },
+  {
+    "id": 196,
+    "title": "Tập 196 (Chương 838 - 841",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20196%20%28Ch%C6%B0%C6%A1ng%20838%20-%20841.opus",
+    "part": "P2",
+    "chapter_start": 838,
+    "chapter_end": 841
+  },
+  {
+    "id": 197,
+    "title": "Tập 197 (Chương 842 - 845)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20197%20%28Ch%C6%B0%C6%A1ng%20842%20-%20845%29.opus",
+    "part": "P2",
+    "chapter_start": 842,
+    "chapter_end": 845
+  },
+  {
+    "id": 198,
+    "title": "Tập 198 (Chương 846 - 850)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20198%20%28Ch%C6%B0%C6%A1ng%20846%20-%20850%29.opus",
+    "part": "P2",
+    "chapter_start": 846,
+    "chapter_end": 850
+  },
+  {
+    "id": 199,
+    "title": "Tập 199 (Chương 851 - 854)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20199%20%28Ch%C6%B0%C6%A1ng%20851%20-%20854%29.opus",
+    "part": "P2",
+    "chapter_start": 851,
+    "chapter_end": 854
+  },
+  {
+    "id": 200,
+    "title": "Tập 200 (Chương 855 - 858)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20200%20%28Ch%C6%B0%C6%A1ng%20855%20-%20858%29.opus",
+    "part": "P2",
+    "chapter_start": 855,
+    "chapter_end": 858
+  },
+  {
+    "id": 201,
+    "title": "Tập 201 (Chương 859 - 863)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20201%20%28Ch%C6%B0%C6%A1ng%20859%20-%20863%29.opus",
+    "part": "P2",
+    "chapter_start": 859,
+    "chapter_end": 863
+  },
+  {
+    "id": 202,
+    "title": "Tập 202 (Chương 864 - 867)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20202%20%28Ch%C6%B0%C6%A1ng%20864%20-%20867%29.opus",
+    "part": "P2",
+    "chapter_start": 864,
+    "chapter_end": 867
+  },
+  {
+    "id": 203,
+    "title": "Tập 203 (Chương 868 - 872)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20203%20%28Ch%C6%B0%C6%A1ng%20868%20-%20872%29.opus",
+    "part": "P2",
+    "chapter_start": 868,
+    "chapter_end": 872
+  },
+  {
+    "id": 204,
+    "title": "Tập 204 (Chương 873 - 877)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20204%20%28Ch%C6%B0%C6%A1ng%20873%20-%20877%29.opus",
+    "part": "P2",
+    "chapter_start": 873,
+    "chapter_end": 877
+  },
+  {
+    "id": 205,
+    "title": "Tập 205 (Chương 878 - 881)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20205%20%28Ch%C6%B0%C6%A1ng%20878%20-%20881%29.opus",
+    "part": "P2",
+    "chapter_start": 878,
+    "chapter_end": 881
+  },
+  {
+    "id": 206,
+    "title": "Tập 206 (Chương 882 - 885)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20206%20%28Ch%C6%B0%C6%A1ng%20882%20-%20885%29.opus",
+    "part": "P2",
+    "chapter_start": 882,
+    "chapter_end": 885
+  },
+  {
+    "id": 207,
+    "title": "Tập 207 (Chương 886 - 889)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20207%20%28Ch%C6%B0%C6%A1ng%20886%20-%20889%29.opus",
+    "part": "P2",
+    "chapter_start": 886,
+    "chapter_end": 889
+  },
+  {
+    "id": 208,
+    "title": "Tập 208 (Chương 890 - 893)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20208%20%28Ch%C6%B0%C6%A1ng%20890%20-%20893%29.opus",
+    "part": "P2",
+    "chapter_start": 890,
+    "chapter_end": 893
+  },
+  {
+    "id": 209,
+    "title": "Tập 209 (Chương 894 - 897)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20209%20%28Ch%C6%B0%C6%A1ng%20894%20-%20897%29.opus",
+    "part": "P2",
+    "chapter_start": 894,
+    "chapter_end": 897
+  },
+  {
+    "id": 210,
+    "title": "Tập 210 (Chương 898 - 901)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20210%20%28Ch%C6%B0%C6%A1ng%20898%20-%20901%29.opus",
+    "part": "P2",
+    "chapter_start": 898,
+    "chapter_end": 901
+  },
+  {
+    "id": 211,
+    "title": "Tập 211 (Chương 902 - 905)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20211%20%28Ch%C6%B0%C6%A1ng%20902%20-%20905%29.opus",
+    "part": "P2",
+    "chapter_start": 902,
+    "chapter_end": 905
+  },
+  {
+    "id": 212,
+    "title": "Tập 212 (Chương 906 - 909)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20212%20%28Ch%C6%B0%C6%A1ng%20906%20-%20909%29.opus",
+    "part": "P2",
+    "chapter_start": 906,
+    "chapter_end": 909
+  },
+  {
+    "id": 213,
+    "title": "Tập 213 (Chương 910 - 913)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20213%20%28Ch%C6%B0%C6%A1ng%20910%20-%20913%29.opus",
+    "part": "P2",
+    "chapter_start": 910,
+    "chapter_end": 913
+  },
+  {
+    "id": 214,
+    "title": "Tập 214 (Chương 914 - 917)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20214%20%28Ch%C6%B0%C6%A1ng%20914%20-%20917%29.opus",
+    "part": "P2",
+    "chapter_start": 914,
+    "chapter_end": 917
+  },
+  {
+    "id": 215,
+    "title": "Tập 215 (Chương 918 - 922)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20215%20%28Ch%C6%B0%C6%A1ng%20918%20-%20922%29.opus",
+    "part": "P2",
+    "chapter_start": 918,
+    "chapter_end": 922
+  },
+  {
+    "id": 216,
+    "title": "Tập 216 (Chương 923 - 926)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20216%20%28Ch%C6%B0%C6%A1ng%20923%20-%20926%29.opus",
+    "part": "P2",
+    "chapter_start": 923,
+    "chapter_end": 926
+  },
+  {
+    "id": 217,
+    "title": "Tập 217 (Chương 927 - 931)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20217%20%28Ch%C6%B0%C6%A1ng%20927%20-%20931%29.opus",
+    "part": "P2",
+    "chapter_start": 927,
+    "chapter_end": 931
+  },
+  {
+    "id": 218,
+    "title": "Tập 218 (Chương 932 - 936)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20218%20%28Ch%C6%B0%C6%A1ng%20932%20-%20936%29.opus",
+    "part": "P2",
+    "chapter_start": 932,
+    "chapter_end": 936
+  },
+  {
+    "id": 219,
+    "title": "Tập 219 (Chương 937 - 940)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20219%20%28Ch%C6%B0%C6%A1ng%20937%20-%20940%29.opus",
+    "part": "P2",
+    "chapter_start": 937,
+    "chapter_end": 940
+  },
+  {
+    "id": 220,
+    "title": "Tập 220 (Chương 941 - 944)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20220%20%28Ch%C6%B0%C6%A1ng%20941%20-%20944%29.opus",
+    "part": "P2",
+    "chapter_start": 941,
+    "chapter_end": 944
+  },
+  {
+    "id": 221,
+    "title": "Tập 221 (Chương 945 - 948)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20221%20%28Ch%C6%B0%C6%A1ng%20945%20-%20948%29.opus",
+    "part": "P2",
+    "chapter_start": 945,
+    "chapter_end": 948
+  },
+  {
+    "id": 222,
+    "title": "Tập 222 (Chương 949 - 952)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20222%20%28Ch%C6%B0%C6%A1ng%20949%20-%20952%29.opus",
+    "part": "P2",
+    "chapter_start": 949,
+    "chapter_end": 952
+  },
+  {
+    "id": 223,
+    "title": "Tập 223 (Chương 953 - 956)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20223%20%28Ch%C6%B0%C6%A1ng%20953%20-%20956%29.opus",
+    "part": "P2",
+    "chapter_start": 953,
+    "chapter_end": 956
+  },
+  {
+    "id": 224,
+    "title": "Tập 224 (Chương 957 - 960)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20224%20%28Ch%C6%B0%C6%A1ng%20957%20-%20960%29.opus",
+    "part": "P2",
+    "chapter_start": 957,
+    "chapter_end": 960
+  },
+  {
+    "id": 225,
+    "title": "Tập 225 (Chương 961 - 964)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20225%20%28Ch%C6%B0%C6%A1ng%20961%20-%20964%29.opus",
+    "part": "P2",
+    "chapter_start": 961,
+    "chapter_end": 964
+  },
+  {
+    "id": 226,
+    "title": "Tập 226 (Chương 965 - 968)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20226%20%28Ch%C6%B0%C6%A1ng%20965%20-%20968%29.opus",
+    "part": "P2",
+    "chapter_start": 965,
+    "chapter_end": 968
+  },
+  {
+    "id": 227,
+    "title": "Tập 227 (Chương 969 - 973)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20227%20%28Ch%C6%B0%C6%A1ng%20969%20-%20973%29.opus",
+    "part": "P2",
+    "chapter_start": 969,
+    "chapter_end": 973
+  },
+  {
+    "id": 228,
+    "title": "Tập 228 (Chương 974 - 977)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20228%20%28Ch%C6%B0%C6%A1ng%20974%20-%20977%29.opus",
+    "part": "P2",
+    "chapter_start": 974,
+    "chapter_end": 977
+  },
+  {
+    "id": 229,
+    "title": "Tập 229 (Chương 978 - 982)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20229%20%28Ch%C6%B0%C6%A1ng%20978%20-%20982%29.opus",
+    "part": "P2",
+    "chapter_start": 978,
+    "chapter_end": 982
+  },
+  {
+    "id": 230,
+    "title": "Tập 230 (Chương 983 - 986)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20230%20%28Ch%C6%B0%C6%A1ng%20983%20-%20986%29.opus",
+    "part": "P2",
+    "chapter_start": 983,
+    "chapter_end": 986
+  },
+  {
+    "id": 231,
+    "title": "Tập 231 (Chương 987 - 991)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20231%20%28Ch%C6%B0%C6%A1ng%20987%20-%20991%29.opus",
+    "part": "P2",
+    "chapter_start": 987,
+    "chapter_end": 991
+  },
+  {
+    "id": 232,
+    "title": "Tập 232 (Chương 992 - 996)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20232%20%28Ch%C6%B0%C6%A1ng%20992%20-%20996%29.opus",
+    "part": "P2",
+    "chapter_start": 992,
+    "chapter_end": 996
+  },
+  {
+    "id": 233,
+    "title": "Tập 233 (Chương 997 - 1000)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20233%20%28Ch%C6%B0%C6%A1ng%20997%20-%201000%29.opus",
+    "part": "P2",
+    "chapter_start": 997,
+    "chapter_end": 1000
+  },
+  {
+    "id": 234,
+    "title": "Tập 234 (Chương 1001 - 1004)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20234%20%28Ch%C6%B0%C6%A1ng%201001%20-%201004%29.opus",
+    "part": "P2",
+    "chapter_start": 1001,
+    "chapter_end": 1004
+  },
+  {
+    "id": 235,
+    "title": "Tập 235 (Chương 1005 - 1009)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20235%20%28Ch%C6%B0%C6%A1ng%201005%20-%201009%29.opus",
+    "part": "P2",
+    "chapter_start": 1005,
+    "chapter_end": 1009
+  },
+  {
+    "id": 236,
+    "title": "Tập 236 (Chương 1010 - 1013)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20236%20%28Ch%C6%B0%C6%A1ng%201010%20-%201013%29.opus",
+    "part": "P2",
+    "chapter_start": 1010,
+    "chapter_end": 1013
+  },
+  {
+    "id": 237,
+    "title": "Tập 237 (Chương 1014 - 1017)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20237%20%28Ch%C6%B0%C6%A1ng%201014%20-%201017%29.opus",
+    "part": "P2",
+    "chapter_start": 1014,
+    "chapter_end": 1017
+  },
+  {
+    "id": 238,
+    "title": "Tập 238 (Chương 1018 - 1021)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20238%20%28Ch%C6%B0%C6%A1ng%201018%20-%201021%29.opus",
+    "part": "P2",
+    "chapter_start": 1018,
+    "chapter_end": 1021
+  },
+  {
+    "id": 239,
+    "title": "Tập 239 (Chương 1022 - 1025)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20239%20%28Ch%C6%B0%C6%A1ng%201022%20-%201025%29.opus",
+    "part": "P2",
+    "chapter_start": 1022,
+    "chapter_end": 1025
+  },
+  {
+    "id": 240,
+    "title": "Tập 240 (Chương 1026 - 1029)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20240%20%28Ch%C6%B0%C6%A1ng%201026%20-%201029%29.opus",
+    "part": "P2",
+    "chapter_start": 1026,
+    "chapter_end": 1029
+  },
+  {
+    "id": 241,
+    "title": "Tập 241 (Chương 1030 - 1033)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20241%20%28Ch%C6%B0%C6%A1ng%201030%20-%201033%29.opus",
+    "part": "P2",
+    "chapter_start": 1030,
+    "chapter_end": 1033
+  },
+  {
+    "id": 242,
+    "title": "Tập 242 (Chương 1034 - 1038)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20242%20%28Ch%C6%B0%C6%A1ng%201034%20-%201038%29.opus",
+    "part": "P2",
+    "chapter_start": 1034,
+    "chapter_end": 1038
+  },
+  {
+    "id": 243,
+    "title": "Tập 243 (Chương 1039 - 1043)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20243%20%28Ch%C6%B0%C6%A1ng%201039%20-%201043%29.opus",
+    "part": "P2",
+    "chapter_start": 1039,
+    "chapter_end": 1043
+  },
+  {
+    "id": 244,
+    "title": "Tập 244 (Chương 1044 - 1047)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20244%20%28Ch%C6%B0%C6%A1ng%201044%20-%201047%29.opus",
+    "part": "P2",
+    "chapter_start": 1044,
+    "chapter_end": 1047
+  },
+  {
+    "id": 245,
+    "title": "Tập 245 (Chương 1048 - 1052)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20245%20%28Ch%C6%B0%C6%A1ng%201048%20-%201052%29.opus",
+    "part": "P2",
+    "chapter_start": 1048,
+    "chapter_end": 1052
+  },
+  {
+    "id": 246,
+    "title": "Tập 246 (Chương 1053 - 1057)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20246%20%28Ch%C6%B0%C6%A1ng%201053%20-%201057%29.opus",
+    "part": "P2",
+    "chapter_start": 1053,
+    "chapter_end": 1057
+  },
+  {
+    "id": 247,
+    "title": "Tập 247 (Chương 1058 - 1061)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20247%20%28Ch%C6%B0%C6%A1ng%201058%20-%201061%29.opus",
+    "part": "P2",
+    "chapter_start": 1058,
+    "chapter_end": 1061
+  },
+  {
+    "id": 248,
+    "title": "Tập 248 (Chương 1062 - 1065)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20248%20%28Ch%C6%B0%C6%A1ng%201062%20-%201065%29.opus",
+    "part": "P2",
+    "chapter_start": 1062,
+    "chapter_end": 1065
+  },
+  {
+    "id": 249,
+    "title": "Tập 249 (Chương 1066 - 1069)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20249%20%28Ch%C6%B0%C6%A1ng%201066%20-%201069%29.opus",
+    "part": "P2",
+    "chapter_start": 1066,
+    "chapter_end": 1069
+  },
+  {
+    "id": 250,
+    "title": "Tập 250 (Chương 1070 - 1074)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20250%20%28Ch%C6%B0%C6%A1ng%201070%20-%201074%29.opus",
+    "part": "P2",
+    "chapter_start": 1070,
+    "chapter_end": 1074
+  },
+  {
+    "id": 251,
+    "title": "Tập 251 (Chương 1075 - 1078)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20251%20%28Ch%C6%B0%C6%A1ng%201075%20-%201078%29.opus",
+    "part": "P2",
+    "chapter_start": 1075,
+    "chapter_end": 1078
+  },
+  {
+    "id": 252,
+    "title": "Tập 252 (Chương 1079 - 1082)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20252%20%28Ch%C6%B0%C6%A1ng%201079%20-%201082%29.opus",
+    "part": "P2",
+    "chapter_start": 1079,
+    "chapter_end": 1082
+  },
+  {
+    "id": 253,
+    "title": "Tập 253 (Chương 1083 - 1087)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20253%20%28Ch%C6%B0%C6%A1ng%201083%20-%201087%29.opus",
+    "part": "P2",
+    "chapter_start": 1083,
+    "chapter_end": 1087
+  },
+  {
+    "id": 254,
+    "title": "Tập 254 (Chương 1088 - 1091)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20254%20%28Ch%C6%B0%C6%A1ng%201088%20-%201091%29.opus",
+    "part": "P2",
+    "chapter_start": 1088,
+    "chapter_end": 1091
+  },
+  {
+    "id": 255,
+    "title": "Tập 255(Chương 1092 - 1095)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20255%28Ch%C6%B0%C6%A1ng%201092%20-%201095%29.opus",
+    "part": "P2",
+    "chapter_start": 1092,
+    "chapter_end": 1095
+  },
+  {
+    "id": 256,
+    "title": "Tập 256(Chương 1096 - 1100)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20256%28Ch%C6%B0%C6%A1ng%201096%20-%201100%29.opus",
+    "part": "P2",
+    "chapter_start": 1096,
+    "chapter_end": 1100
+  },
+  {
+    "id": 257,
+    "title": "Tập 257 (Chương 1101 - 1105)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20257%20%28Ch%C6%B0%C6%A1ng%201101%20-%201105%29.opus",
+    "part": "P2",
+    "chapter_start": 1101,
+    "chapter_end": 1105
+  },
+  {
+    "id": 258,
+    "title": "Tập 258 (Chương 1106 - 1109)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20258%20%28Ch%C6%B0%C6%A1ng%201106%20-%201109%29.opus",
+    "part": "P2",
+    "chapter_start": 1106,
+    "chapter_end": 1109
+  },
+  {
+    "id": 259,
+    "title": "Tập 259 (Chương 1110 - 1114)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20259%20%28Ch%C6%B0%C6%A1ng%201110%20-%201114%29.opus",
+    "part": "P2",
+    "chapter_start": 1110,
+    "chapter_end": 1114
+  },
+  {
+    "id": 260,
+    "title": "Tập 260 (Chương 1115 - 1119)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20260%20%28Ch%C6%B0%C6%A1ng%201115%20-%201119%29.opus",
+    "part": "P2",
+    "chapter_start": 1115,
+    "chapter_end": 1119
+  },
+  {
+    "id": 261,
+    "title": "Tập 261 (Chương 1120 - 1123)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20261%20%28Ch%C6%B0%C6%A1ng%201120%20-%201123%29.opus",
+    "part": "P2",
+    "chapter_start": 1120,
+    "chapter_end": 1123
+  },
+  {
+    "id": 262,
+    "title": "Tập 262 (Chương 1124 - 1127)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20262%20%28Ch%C6%B0%C6%A1ng%201124%20-%201127%29.opus",
+    "part": "P2",
+    "chapter_start": 1124,
+    "chapter_end": 1127
+  },
+  {
+    "id": 263,
+    "title": "Tập 263 (Chương 1128 - 1131)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20263%20%28Ch%C6%B0%C6%A1ng%201128%20-%201131%29.opus",
+    "part": "P2",
+    "chapter_start": 1128,
+    "chapter_end": 1131
+  },
+  {
+    "id": 264,
+    "title": "Tập 264 (Chương 1132 - 1135)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20264%20%28Ch%C6%B0%C6%A1ng%201132%20-%201135%29.opus",
+    "part": "P2",
+    "chapter_start": 1132,
+    "chapter_end": 1135
+  },
+  {
+    "id": 265,
+    "title": "Tập 265 (Chương 1136 - 1139)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20265%20%28Ch%C6%B0%C6%A1ng%201136%20-%201139%29.opus",
+    "part": "P2",
+    "chapter_start": 1136,
+    "chapter_end": 1139
+  },
+  {
+    "id": 266,
+    "title": "Tập 266 (Chương 1140 - 1144)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20266%20%28Ch%C6%B0%C6%A1ng%201140%20-%201144%29.opus",
+    "part": "P2",
+    "chapter_start": 1140,
+    "chapter_end": 1144
+  },
+  {
+    "id": 267,
+    "title": "Tập 267 (Chương 1145 - 1148)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20267%20%28Ch%C6%B0%C6%A1ng%201145%20-%201148%29.opus",
+    "part": "P2",
+    "chapter_start": 1145,
+    "chapter_end": 1148
+  },
+  {
+    "id": 268,
+    "title": "Tập 268 (Chương 1149 - 1152)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20268%20%28Ch%C6%B0%C6%A1ng%201149%20-%201152%29.opus",
+    "part": "P2",
+    "chapter_start": 1149,
+    "chapter_end": 1152
+  },
+  {
+    "id": 269,
+    "title": "Tập 269 (Chương 1153 - 1157)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20269%20%28Ch%C6%B0%C6%A1ng%201153%20-%201157%29.opus",
+    "part": "P2",
+    "chapter_start": 1153,
+    "chapter_end": 1157
+  },
+  {
+    "id": 270,
+    "title": "Tập 270 (Chương 1158 - 1161)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20270%20%28Ch%C6%B0%C6%A1ng%201158%20-%201161%29.opus",
+    "part": "P2",
+    "chapter_start": 1158,
+    "chapter_end": 1161
+  },
+  {
+    "id": 271,
+    "title": "Tập 271 (Chương 1162 - 1166)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20271%20%28Ch%C6%B0%C6%A1ng%201162%20-%201166%29.opus",
+    "part": "P2",
+    "chapter_start": 1162,
+    "chapter_end": 1166
+  },
+  {
+    "id": 272,
+    "title": "Tập 272 (Chương 1167 - 1171)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20272%20%28Ch%C6%B0%C6%A1ng%201167%20-%201171%29.opus",
+    "part": "P2",
+    "chapter_start": 1167,
+    "chapter_end": 1171
+  },
+  {
+    "id": 273,
+    "title": "Tập 273 (Chương 1172 - 1176)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20273%20%28Ch%C6%B0%C6%A1ng%201172%20-%201176%29.opus",
+    "part": "P2",
+    "chapter_start": 1172,
+    "chapter_end": 1176
+  },
+  {
+    "id": 274,
+    "title": "Tập 274 (Chương 1177 - 1181)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20274%20%28Ch%C6%B0%C6%A1ng%201177%20-%201181%29.opus",
+    "part": "P2",
+    "chapter_start": 1177,
+    "chapter_end": 1181
+  },
+  {
+    "id": 275,
+    "title": "Tập 275 (Chương 1182 - 1185)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20275%20%28Ch%C6%B0%C6%A1ng%201182%20-%201185%29.opus",
+    "part": "P2",
+    "chapter_start": 1182,
+    "chapter_end": 1185
+  },
+  {
+    "id": 276,
+    "title": "Tập 276 (Chương 1186 - 1190)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20276%20%28Ch%C6%B0%C6%A1ng%201186%20-%201190%29.opus",
+    "part": "P2",
+    "chapter_start": 1186,
+    "chapter_end": 1190
+  },
+  {
+    "id": 277,
+    "title": "Tập 277 (Chương 1191 - 1194)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20277%20%28Ch%C6%B0%C6%A1ng%201191%20-%201194%29.opus",
+    "part": "P2",
+    "chapter_start": 1191,
+    "chapter_end": 1194
+  },
+  {
+    "id": 278,
+    "title": "Tập 278 (Chương 1195 - 1198)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20278%20%28Ch%C6%B0%C6%A1ng%201195%20-%201198%29.opus",
+    "part": "P2",
+    "chapter_start": 1195,
+    "chapter_end": 1198
+  },
+  {
+    "id": 279,
+    "title": "Tập 279 (Chương 1199 - 1202)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20279%20%28Ch%C6%B0%C6%A1ng%201199%20-%201202%29.opus",
+    "part": "P2",
+    "chapter_start": 1199,
+    "chapter_end": 1202
+  },
+  {
+    "id": 280,
+    "title": "Tập 280 (Chương 1203 - 1207)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20280%20%28Ch%C6%B0%C6%A1ng%201203%20-%201207%29.opus",
+    "part": "P2",
+    "chapter_start": 1203,
+    "chapter_end": 1207
+  },
+  {
+    "id": 281,
+    "title": "Tập 281 (Chương 1208 - 1211)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20281%20%28Ch%C6%B0%C6%A1ng%201208%20-%201211%29.opus",
+    "part": "P2",
+    "chapter_start": 1208,
+    "chapter_end": 1211
+  },
+  {
+    "id": 282,
+    "title": "Tập 282 (Chương 1212 - 1215)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20282%20%28Ch%C6%B0%C6%A1ng%201212%20-%201215%29.opus",
+    "part": "P2",
+    "chapter_start": 1212,
+    "chapter_end": 1215
+  },
+  {
+    "id": 283,
+    "title": "Tập 283 (Chương 1216 - 1219)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20283%20%28Ch%C6%B0%C6%A1ng%201216%20-%201219%29.opus",
+    "part": "P2",
+    "chapter_start": 1216,
+    "chapter_end": 1219
+  },
+  {
+    "id": 284,
+    "title": "Tập 284 (Chương 1220 - 1223)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20284%20%28Ch%C6%B0%C6%A1ng%201220%20-%201223%29.opus",
+    "part": "P2",
+    "chapter_start": 1220,
+    "chapter_end": 1223
+  },
+  {
+    "id": 285,
+    "title": "Tập 285 (Chương 1224 - 1228)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20285%20%28Ch%C6%B0%C6%A1ng%201224%20-%201228%29.opus",
+    "part": "P2",
+    "chapter_start": 1224,
+    "chapter_end": 1228
+  },
+  {
+    "id": 286,
+    "title": "Tập 286 (Chương 1229 - 1232)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20286%20%28Ch%C6%B0%C6%A1ng%201229%20-%201232%29.opus",
+    "part": "P2",
+    "chapter_start": 1229,
+    "chapter_end": 1232
+  },
+  {
+    "id": 287,
+    "title": "Tập 287 (Chương 1233 - 1237)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20287%20%28Ch%C6%B0%C6%A1ng%201233%20-%201237%29.opus",
+    "part": "P2",
+    "chapter_start": 1233,
+    "chapter_end": 1237
+  },
+  {
+    "id": 288,
+    "title": "Tập 288 (Chương 1238 - 1243)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20288%20%28Ch%C6%B0%C6%A1ng%201238%20-%201243%29.opus",
+    "part": "P2",
+    "chapter_start": 1238,
+    "chapter_end": 1243
+  },
+  {
+    "id": 289,
+    "title": "Tập 289 (Chương 1244 - 1247)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20289%20%28Ch%C6%B0%C6%A1ng%201244%20-%201247%29.opus",
+    "part": "P2",
+    "chapter_start": 1244,
+    "chapter_end": 1247
+  },
+  {
+    "id": 290,
+    "title": "Tập 290 (Chương 1248 - 1252)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20290%20%28Ch%C6%B0%C6%A1ng%201248%20-%201252%29.opus",
+    "part": "P2",
+    "chapter_start": 1248,
+    "chapter_end": 1252
+  },
+  {
+    "id": 291,
+    "title": "Tập 291 (Chương 1253 - 1256)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20291%20%28Ch%C6%B0%C6%A1ng%201253%20-%201256%29.opus",
+    "part": "P2",
+    "chapter_start": 1253,
+    "chapter_end": 1256
+  },
+  {
+    "id": 292,
+    "title": "Tập 292 (Chương 1257 - 1261)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20292%20%28Ch%C6%B0%C6%A1ng%201257%20-%201261%29.opus",
+    "part": "P2",
+    "chapter_start": 1257,
+    "chapter_end": 1261
+  },
+  {
+    "id": 293,
+    "title": "Tập 293 (Chương 1262 - 1265)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20293%20%28Ch%C6%B0%C6%A1ng%201262%20-%201265%29.opus",
+    "part": "P2",
+    "chapter_start": 1262,
+    "chapter_end": 1265
+  },
+  {
+    "id": 294,
+    "title": "Tập 294 (Chương 1266 - 1269)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20294%20%28Ch%C6%B0%C6%A1ng%201266%20-%201269%29.opus",
+    "part": "P2",
+    "chapter_start": 1266,
+    "chapter_end": 1269
+  },
+  {
+    "id": 295,
+    "title": "Tập 295 (Chương 1270 - 1273)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20295%20%28Ch%C6%B0%C6%A1ng%201270%20-%201273%29.opus",
+    "part": "P2",
+    "chapter_start": 1270,
+    "chapter_end": 1273
+  },
+  {
+    "id": 296,
+    "title": "Tập 296 (Chương 1274 - 1277)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20296%20%28Ch%C6%B0%C6%A1ng%201274%20-%201277%29.opus",
+    "part": "P2",
+    "chapter_start": 1274,
+    "chapter_end": 1277
+  },
+  {
+    "id": 297,
+    "title": "Tập 297 (Chương 1278 - 1281)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20297%20%28Ch%C6%B0%C6%A1ng%201278%20-%201281%29.opus",
+    "part": "P2",
+    "chapter_start": 1278,
+    "chapter_end": 1281
+  },
+  {
+    "id": 298,
+    "title": "Tập 298 (Chương 1282 - 1286)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20298%20%28Ch%C6%B0%C6%A1ng%201282%20-%201286%29.opus",
+    "part": "P2",
+    "chapter_start": 1282,
+    "chapter_end": 1286
+  },
+  {
+    "id": 299,
+    "title": "Tập 299 (Chương 1287 - 1290)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20299%20%28Ch%C6%B0%C6%A1ng%201287%20-%201290%29.opus",
+    "part": "P2",
+    "chapter_start": 1287,
+    "chapter_end": 1290
+  },
+  {
+    "id": 300,
+    "title": "Tập 300 (Chương 1291 - 1295)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20300%20%28Ch%C6%B0%C6%A1ng%201291%20-%201295%29.opus",
+    "part": "P2",
+    "chapter_start": 1291,
+    "chapter_end": 1295
+  },
+  {
+    "id": 301,
+    "title": "Tập 301 (Chương 1296 - 1300)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20301%20%28Ch%C6%B0%C6%A1ng%201296%20-%201300%29.opus",
+    "part": "P2",
+    "chapter_start": 1296,
+    "chapter_end": 1300
+  },
+  {
+    "id": 302,
+    "title": "Tập 302 (Chương 1301 - 1305)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20302%20%28Ch%C6%B0%C6%A1ng%201301%20-%201305%29.opus",
+    "part": "P2",
+    "chapter_start": 1301,
+    "chapter_end": 1305
+  },
+  {
+    "id": 303,
+    "title": "Tập 303 (Chương 1306 - 1309)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20303%20%28Ch%C6%B0%C6%A1ng%201306%20-%201309%29.opus",
+    "part": "P2",
+    "chapter_start": 1306,
+    "chapter_end": 1309
+  },
+  {
+    "id": 304,
+    "title": "Tập 304 (Chương 1310 - 1313)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20304%20%28Ch%C6%B0%C6%A1ng%201310%20-%201313%29.opus",
+    "part": "P2",
+    "chapter_start": 1310,
+    "chapter_end": 1313
+  },
+  {
+    "id": 305,
+    "title": "Tập 305 (Chương 1314 - 1317)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20305%20%28Ch%C6%B0%C6%A1ng%201314%20-%201317%29.opus",
+    "part": "P2",
+    "chapter_start": 1314,
+    "chapter_end": 1317
+  },
+  {
+    "id": 306,
+    "title": "Tập 306 (Chương 1318 - 1321)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20306%20%28Ch%C6%B0%C6%A1ng%201318%20-%201321%29.opus",
+    "part": "P2",
+    "chapter_start": 1318,
+    "chapter_end": 1321
+  },
+  {
+    "id": 307,
+    "title": "Tập 307 (Chương 1322 - 1325)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20307%20%28Ch%C6%B0%C6%A1ng%201322%20-%201325%29.opus",
+    "part": "P2",
+    "chapter_start": 1322,
+    "chapter_end": 1325
+  },
+  {
+    "id": 308,
+    "title": "Tập 308 (Chương 1326 - 1329)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20308%20%28Ch%C6%B0%C6%A1ng%201326%20-%201329%29.opus",
+    "part": "P2",
+    "chapter_start": 1326,
+    "chapter_end": 1329
+  },
+  {
+    "id": 309,
+    "title": "Tập 309 (Chương 1330 - 1333)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20309%20%28Ch%C6%B0%C6%A1ng%201330%20-%201333%29.opus",
+    "part": "P2",
+    "chapter_start": 1330,
+    "chapter_end": 1333
+  },
+  {
+    "id": 310,
+    "title": "Tập 310 (Chương 1334 - 1338)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20310%20%28Ch%C6%B0%C6%A1ng%201334%20-%201338%29.opus",
+    "part": "P2",
+    "chapter_start": 1334,
+    "chapter_end": 1338
+  },
+  {
+    "id": 311,
+    "title": "Tập 311 (Chương 1339 - 1343)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20311%20%28Ch%C6%B0%C6%A1ng%201339%20-%201343%29.opus",
+    "part": "P2",
+    "chapter_start": 1339,
+    "chapter_end": 1343
+  },
+  {
+    "id": 312,
+    "title": "Tập 312 (Chương 1344 - 1348)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20312%20%28Ch%C6%B0%C6%A1ng%201344%20-%201348%29.opus",
+    "part": "P2",
+    "chapter_start": 1344,
+    "chapter_end": 1348
+  },
+  {
+    "id": 313,
+    "title": "Tập 313 (Chương 1349 - 1353)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20313%20%28Ch%C6%B0%C6%A1ng%201349%20-%201353%29.opus",
+    "part": "P2",
+    "chapter_start": 1349,
+    "chapter_end": 1353
+  },
+  {
+    "id": 314,
+    "title": "Tập 314 (Chương 1354 - 1358)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20314%20%28Ch%C6%B0%C6%A1ng%201354%20-%201358%29.opus",
+    "part": "P2",
+    "chapter_start": 1354,
+    "chapter_end": 1358
+  },
+  {
+    "id": 315,
+    "title": "Tập 315 (Chương 1359 - 1363)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20315%20%28Ch%C6%B0%C6%A1ng%201359%20-%201363%29.opus",
+    "part": "P2",
+    "chapter_start": 1359,
+    "chapter_end": 1363
+  },
+  {
+    "id": 316,
+    "title": "Tập 316 (Chương 1364 - 1368)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20316%20%28Ch%C6%B0%C6%A1ng%201364%20-%201368%29.opus",
+    "part": "P2",
+    "chapter_start": 1364,
+    "chapter_end": 1368
+  },
+  {
+    "id": 317,
+    "title": "Tập 317 (Chương 1369 - 1373)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20317%20%28Ch%C6%B0%C6%A1ng%201369%20-%201373%29.opus",
+    "part": "P2",
+    "chapter_start": 1369,
+    "chapter_end": 1373
+  },
+  {
+    "id": 318,
+    "title": "Tập 318 (Chương 1374 - 1378)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20318%20%28Ch%C6%B0%C6%A1ng%201374%20-%201378%29.opus",
+    "part": "P2",
+    "chapter_start": 1374,
+    "chapter_end": 1378
+  },
+  {
+    "id": 319,
+    "title": "Tập 319 (Chương 1379 - 1383)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20319%20%28Ch%C6%B0%C6%A1ng%201379%20-%201383%29.opus",
+    "part": "P2",
+    "chapter_start": 1379,
+    "chapter_end": 1383
+  },
+  {
+    "id": 320,
+    "title": "Tập 320 (Chương 1384 - 1388)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20320%20%28Ch%C6%B0%C6%A1ng%201384%20-%201388%29.opus",
+    "part": "P2",
+    "chapter_start": 1384,
+    "chapter_end": 1388
+  },
+  {
+    "id": 321,
+    "title": "Tập 321 (END)",
+    "src": "https://huggingface.co/datasets/haron2571/pntt_gvn/resolve/main/P2/T%E1%BA%ADp%20321%20%28END%29.opus",
+    "part": "P2",
+    "chapter_start": null,
+    "chapter_end": null
+  }
+]
