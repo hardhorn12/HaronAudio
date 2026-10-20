@@ -13,7 +13,7 @@ const state = {
   current: null,
   autoNext: true,
   rates: [0.8, 1.0, 1.25, 1.5, 1.75, 2.0],
-  currentRate: 1.0,
+  currentRate: 1.25,
   timerMode: null,
   timerIntervalId: null,
   timerRemainingSec: 0,
