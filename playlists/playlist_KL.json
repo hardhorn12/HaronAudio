@@ -1,0 +1,346 @@
+[
+  {
+    "id": 1,
+    "title": "Tập 1 (Chương 1 - 5)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%201%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.1-5%29.opus",
+    "part": "KL",
+    "chapter_start": 1,
+    "chapter_end": 5
+  },
+  {
+    "id": 2,
+    "title": "Tập 2 (Chương 6 - 10)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%202%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.6-10%29.opus",
+    "part": "KL",
+    "chapter_start": 6,
+    "chapter_end": 10
+  },
+  {
+    "id": 3,
+    "title": "Tập 3 (Chương 11 - 15)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%203%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.11-15%29.opus",
+    "part": "KL",
+    "chapter_start": 11,
+    "chapter_end": 15
+  },
+  {
+    "id": 4,
+    "title": "Tập 4 (Chương 16 - 20)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%204%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.16-20%29.opus",
+    "part": "KL",
+    "chapter_start": 16,
+    "chapter_end": 20
+  },
+  {
+    "id": 5,
+    "title": "Tập 5 (Chương 21 - 25)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%205%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.21-25%29.opus",
+    "part": "KL",
+    "chapter_start": 21,
+    "chapter_end": 25
+  },
+  {
+    "id": 6,
+    "title": "Tập 6 (Chương 26 - 30)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%206%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.26-30%29.opus",
+    "part": "KL",
+    "chapter_start": 26,
+    "chapter_end": 30
+  },
+  {
+    "id": 7,
+    "title": "Tập 7 (Chương 31 - 35)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%207%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.31-35%29.opus",
+    "part": "KL",
+    "chapter_start": 31,
+    "chapter_end": 35
+  },
+  {
+    "id": 8,
+    "title": "Tập 8 (Chương 36 - 40)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%208%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.36-40%29.opus",
+    "part": "KL",
+    "chapter_start": 36,
+    "chapter_end": 40
+  },
+  {
+    "id": 9,
+    "title": "Tập 9 (Chương 41 - 45)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%209%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.41-45%29.opus",
+    "part": "KL",
+    "chapter_start": 41,
+    "chapter_end": 45
+  },
+  {
+    "id": 10,
+    "title": "Tập 10 (Chương 46 - 50)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2010%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.46-50%29.opus",
+    "part": "KL",
+    "chapter_start": 46,
+    "chapter_end": 50
+  },
+  {
+    "id": 11,
+    "title": "Tập 11 (Chương 51 - 55)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2011%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.51-55%29.opus",
+    "part": "KL",
+    "chapter_start": 51,
+    "chapter_end": 55
+  },
+  {
+    "id": 12,
+    "title": "Tập 12 (Chương 56 - 60)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2012%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.56-60%29.opus",
+    "part": "KL",
+    "chapter_start": 56,
+    "chapter_end": 60
+  },
+  {
+    "id": 13,
+    "title": "Tập 13 (Chương 61 - 65)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2013%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.61-65%29.opus",
+    "part": "KL",
+    "chapter_start": 61,
+    "chapter_end": 65
+  },
+  {
+    "id": 14,
+    "title": "Tập 14 (Chương 66 - 70)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2014%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.66-70%29.opus",
+    "part": "KL",
+    "chapter_start": 66,
+    "chapter_end": 70
+  },
+  {
+    "id": 15,
+    "title": "Tập 15 (Chương 71 - 75)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2015%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.71-75%29.opus",
+    "part": "KL",
+    "chapter_start": 71,
+    "chapter_end": 75
+  },
+  {
+    "id": 16,
+    "title": "Tập 16 (Chương 76 - 80)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2016%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.76-80%29.opus",
+    "part": "KL",
+    "chapter_start": 76,
+    "chapter_end": 80
+  },
+  {
+    "id": 17,
+    "title": "Tập 17 (Chương 81 - 85)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2017%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.81-85%29.opus",
+    "part": "KL",
+    "chapter_start": 81,
+    "chapter_end": 85
+  },
+  {
+    "id": 18,
+    "title": "Tập 18 (Chương 86 - 90)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2018%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.86-90%29.opus",
+    "part": "KL",
+    "chapter_start": 86,
+    "chapter_end": 90
+  },
+  {
+    "id": 19,
+    "title": "Tập 19 (Chương 91 - 95)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2019%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.91-95%29.opus",
+    "part": "KL",
+    "chapter_start": 91,
+    "chapter_end": 95
+  },
+  {
+    "id": 20,
+    "title": "Tập 20 (Chương 96 - 100)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2020%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.96-100%29.opus",
+    "part": "KL",
+    "chapter_start": 96,
+    "chapter_end": 100
+  },
+  {
+    "id": 21,
+    "title": "Tập 21 (Chương 101 - 105)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2021%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.101-105%29.opus",
+    "part": "KL",
+    "chapter_start": 101,
+    "chapter_end": 105
+  },
+  {
+    "id": 22,
+    "title": "Tập 22 (Chương 106 - 110)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2022%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.106-110%29.opus",
+    "part": "KL",
+    "chapter_start": 106,
+    "chapter_end": 110
+  },
+  {
+    "id": 23,
+    "title": "Tập 23 (Chương 111 - 115)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2023%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.111-115%29.opus",
+    "part": "KL",
+    "chapter_start": 111,
+    "chapter_end": 115
+  },
+  {
+    "id": 24,
+    "title": "Tập 24 (Chương 116 - 120)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2024%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.116-120%29.opus",
+    "part": "KL",
+    "chapter_start": 116,
+    "chapter_end": 120
+  },
+  {
+    "id": 25,
+    "title": "Tập 25 (Chương 121 - 125)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2025%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.121-125%29.opus",
+    "part": "KL",
+    "chapter_start": 121,
+    "chapter_end": 125
+  },
+  {
+    "id": 26,
+    "title": "Tập 26 (Chương 126 - 130)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2026%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.126-130%29.opus",
+    "part": "KL",
+    "chapter_start": 126,
+    "chapter_end": 130
+  },
+  {
+    "id": 27,
+    "title": "Tập 27 (Chương 131 - 135)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2027%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.131-135%29.opus",
+    "part": "KL",
+    "chapter_start": 131,
+    "chapter_end": 135
+  },
+  {
+    "id": 28,
+    "title": "Tập 28 (Chương 136 - 140)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2028%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.136-140%29.opus",
+    "part": "KL",
+    "chapter_start": 136,
+    "chapter_end": 140
+  },
+  {
+    "id": 29,
+    "title": "Tập 29 (Chương 141 - 145)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2029%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.141-145%29.opus",
+    "part": "KL",
+    "chapter_start": 141,
+    "chapter_end": 145
+  },
+  {
+    "id": 30,
+    "title": "Tập 30 (Chương 146 - 150)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2030%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.146-150%29.opus",
+    "part": "KL",
+    "chapter_start": 146,
+    "chapter_end": 150
+  },
+  {
+    "id": 31,
+    "title": "Tập 31 (Chương 151 - 155)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2031%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.151-155%29.opus",
+    "part": "KL",
+    "chapter_start": 151,
+    "chapter_end": 155
+  },
+  {
+    "id": 32,
+    "title": "Tập 32 (Chương 156 - 160)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2032%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.156-160%29.opus",
+    "part": "KL",
+    "chapter_start": 156,
+    "chapter_end": 160
+  },
+  {
+    "id": 33,
+    "title": "Tập 33 (Chương 161 - 165)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2033%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.161-165%29.opus",
+    "part": "KL",
+    "chapter_start": 161,
+    "chapter_end": 165
+  },
+  {
+    "id": 34,
+    "title": "Tập 34 (Chương 166 - 170)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2034%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.166-170%29.opus",
+    "part": "KL",
+    "chapter_start": 166,
+    "chapter_end": 170
+  },
+  {
+    "id": 35,
+    "title": "Tập 35 (Chương 171 - 175)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2035%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.171-175%29.opus",
+    "part": "KL",
+    "chapter_start": 171,
+    "chapter_end": 175
+  },
+  {
+    "id": 36,
+    "title": "Tập 36 (Chương 176 - 180)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2036%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.176-180%29.opus",
+    "part": "KL",
+    "chapter_start": 176,
+    "chapter_end": 180
+  },
+  {
+    "id": 37,
+    "title": "Tập 37 (Chương 181 - 185)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2037%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.181-185%29.opus",
+    "part": "KL",
+    "chapter_start": 181,
+    "chapter_end": 185
+  },
+  {
+    "id": 38,
+    "title": "Tập 38 (Chương 186 - 190)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2038%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.186-190%29.opus",
+    "part": "KL",
+    "chapter_start": 186,
+    "chapter_end": 190
+  },
+  {
+    "id": 39,
+    "title": "Tập 39 (Chương 191 - 195)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2039%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.191-195%29.opus",
+    "part": "KL",
+    "chapter_start": 191,
+    "chapter_end": 195
+  },
+  {
+    "id": 40,
+    "title": "Tập 40 (Chương 196 - 200)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2040%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.196-200%29.opus",
+    "part": "KL",
+    "chapter_start": 196,
+    "chapter_end": 200
+  },
+  {
+    "id": 41,
+    "title": "Tập 41 (Chương 201 - 205)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2041%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.201-205%29.opus",
+    "part": "KL",
+    "chapter_start": 201,
+    "chapter_end": 205
+  },
+  {
+    "id": 42,
+    "title": "Tập 42 (Chương 206 - 210)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2042%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.206-210%29.opus",
+    "part": "KL",
+    "chapter_start": 206,
+    "chapter_end": 210
+  },
+  {
+    "id": 43,
+    "title": "Tập 43 (Chương 211 - 215)",
+    "src": "https://huggingface.co/datasets/haron2571/kl/resolve/main/%5BT%E1%BA%ACP%2043%5D%20KI%E1%BA%BEM%20LAI%20%28Ch.211-215%29.opus",
+    "part": "KL",
+    "chapter_start": 211,
+    "chapter_end": 215
+  }
+]
